@@ -1,0 +1,5 @@
+git repo
+remote repo
+rosh kushare
+git status-->status of the local repo
+git init-->initializes the git repo
